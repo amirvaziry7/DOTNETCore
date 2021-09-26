@@ -1,0 +1,15 @@
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.AssemblyInfoInputs.cache
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.AssemblyInfo.cs
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.csproj.CoreCompileInputs.cache
+D:\DataBases\Amlak_Web\Amlak_Web_Application\bin\Debug\net5.0\Amlak_Web_Application.deps.json
+D:\DataBases\Amlak_Web\Amlak_Web_Application\bin\Debug\net5.0\Amlak_Web_Application.dll
+D:\DataBases\Amlak_Web\Amlak_Web_Application\bin\Debug\net5.0\ref\Amlak_Web_Application.dll
+D:\DataBases\Amlak_Web\Amlak_Web_Application\bin\Debug\net5.0\Amlak_Web_Application.pdb
+D:\DataBases\Amlak_Web\Amlak_Web_Application\bin\Debug\net5.0\Amlak_Web_Domain.dll
+D:\DataBases\Amlak_Web\Amlak_Web_Application\bin\Debug\net5.0\Amlak_Web_Domain.pdb
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.csproj.AssemblyReference.cache
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.csproj.CopyComplete
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.dll
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\ref\Amlak_Web_Application.dll
+D:\DataBases\Amlak_Web\Amlak_Web_Application\obj\Debug\net5.0\Amlak_Web_Application.pdb

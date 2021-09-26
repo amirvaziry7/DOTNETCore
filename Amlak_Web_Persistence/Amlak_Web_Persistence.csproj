@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="microsoft.entityframeworkcore" Version="5.0.10" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="5.0.10" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="5.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Amlak_Web_Domain\Amlak_Web_Domain.csproj" />
+  </ItemGroup>
+
+</Project>
